@@ -38,5 +38,5 @@ export default defineConfig({
   server: {
     port: 3000,
   },
-  base: 'https://LuisFernandoLG.github.io/vuetify-app/'
+  base: 'https://luislopez.live/vuetify-app/'
 })
